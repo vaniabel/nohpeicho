@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uciepochae.bmltdays.org/sitemap.xml
